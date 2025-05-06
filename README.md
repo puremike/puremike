@@ -31,6 +31,20 @@ Currently, I'm also exploring **Rust** at a steady pace—curious about systems-
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=michaelegbinola&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=michaelegbinola&theme=tokyonight" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelegbinola&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
+
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn – Michael Egbinola](https://www.linkedin.com/in/michaelegbinola/)  

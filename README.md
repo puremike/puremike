@@ -1,17 +1,15 @@
 # 👋 Hi, I'm Michael,
 
-# 🚀 Backend Engineer (Golang | Java Spring Boot | FastAPI)
+# 🚀 Backend Engineer (Golang | FastAPI | Microservices | AWS)
+High-performance Golang Specialist building scalable APIs and distributed systems. I focus on writing clean, efficient code and architecting microservices that handle high-throughput traffic with ease.
 
-Backend Specialist focused on building high-performance microservices, scalable APIs, and real-time distributed systems. I leverage my background in cloud-native infrastructure to write production-ready code that scales.
-
-### 💼 About Me
-I’m a Backend Engineer who builds the "engine" behind modern applications. I specialise in crafting efficient server-side logic and architecting microservices that are optimised for performance and reliability. 
-
-While I have deep expertise in **Docker, Kubernetes, and AWS**, my focus is on using these tools to support robust application development, ensuring that every service I build is scalable and secure from the first commit.
+### About Me
+I am a Backend Engineer who builds the core infrastructure behind modern applications. I specialise in crafting high-concurrency server-side logic and designing decoupled systems that are optimised for speed and long-term maintainability. With deep expertise in Golang, Kubernetes, and AWS, I bridge the gap between application code and infrastructure. My goal is to deliver production-ready services that are secure, container-optimised, and built to scale from day one. Backend Specialist focused on building high-performance microservices, scalable APIs, and real-time distributed systems. I leverage my background in cloud-native infrastructure to write production-ready code that scales.
 
 **What I do:**
 - 🧠 **Microservices Architecture:** Designing decoupled, resilient systems using Go and Java.
 - ⚡ **High-Performance APIs:** Building async and real-time services with FastAPI and WebSockets.
+- 📊 **Reliability & Monitoring:** Implementing Prometheus, Grafana, and OpenTelemetry for full-stack observability and SLO tracking.
 - ⚙️ **Production-Ready Engineering:** Ensuring code is container-optimised and ready for Kubernetes.
 - 🧪 **System Design:** Implementing caching (Redis), messaging queues, and database optimisation.
 

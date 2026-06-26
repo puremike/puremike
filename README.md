@@ -1,28 +1,39 @@
-# 👋 Hi, I'm Michael,
+# Hi, I'm Michael 👋
 
-# 🚀 Backend Engineer (Golang | FastAPI | Microservices | AWS)
-High-performance Golang Specialist building scalable APIs and distributed systems. I focus on writing clean, efficient code and architecting microservices that handle high-throughput traffic with ease.
+### 🚀 Platform & Backend Engineer | Golang • Python • Cloud-Native Systems
 
-### About Me
-I am a Backend Engineer who builds the core infrastructure behind modern applications. I specialise in crafting high-concurrency server-side logic and designing decoupled systems that are optimised for speed and long-term maintainability. With deep expertise in Golang, Kubernetes, and AWS, I bridge the gap between application code and infrastructure. My goal is to deliver production-ready services that are secure, container-optimised, and built to scale from day one. Backend Specialist focused on building high-performance microservices, scalable APIs, and real-time distributed systems. I leverage my background in cloud-native infrastructure to write production-ready code that scales.
+I am a software engineer who operates at the intersection of robust backend development and platform infrastructure. I specialize in building high-concurrency server-side logic, real-time distributed systems, and the resilient cloud infrastructure that supports them. 
 
-**What I do:**
-- 🧠 **Microservices Architecture:** Designing decoupled, resilient systems using Go and Java.
-- ⚡ **High-Performance APIs:** Building async and real-time services with FastAPI and WebSockets.
-- 📊 **Reliability & Monitoring:** Implementing Prometheus, Grafana, and OpenTelemetry for full-stack observability and SLO tracking.
-- ⚙️ **Production-Ready Engineering:** Ensuring code is container-optimised and ready for Kubernetes.
-- 🧪 **System Design:** Implementing caching (Redis), messaging queues, and database optimisation.
+With deep expertise in **Golang**, **Python**, and **Kubernetes**, my goal is to design decoupled, secure, and production-ready applications that scale flawlessly from day one.
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 What I Do
 
-- **Languages:** Golang, Java (Spring Boot), Python (FastAPI)
-- **Databases:** PostgreSQL, MongoDB, Redis
-- **Cloud & Orchestration:** AWS (EKS, Lambda, S3), Docker, Kubernetes
-- **CI/CD & Observability:** GitHub Actions, ArgoCD, Prometheus, Grafana
+*   **🧠 High-Performance Architecture:** Designing scalable, low-latency microservices and real-time event-driven systems using Go, Python (FastAPI), and Java (Spring Boot).
+*   **⚡ API & Message Design:** Building efficient inter-service communication layers using gRPC, WebSockets, and message brokers (Kafka, RabbitMQ).
+*   **⚙️ Platform & Infrastructure:** Provisioning cloud-native ecosystems on AWS (EKS, ECS, Lambda, VPC) with automated infrastructure orchestration.
+*   **📊 Observability & GitOps:** Modernizing deployment pipelines via CI/CD (GitHub Actions, ArgoCD) and establishing full-stack telemetry using Prometheus, Grafana, and OpenTelemetry.
 
 ---
+
+### 🧰 Tech Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages & Frameworks** | Go (Golang), Python (FastAPI), SQL |
+| **Cloud & Orchestration** | AWS (EKS, ECS, Lambda, S3, EC2), Docker, Kubernetes, Helm, Tilt |
+| **Protocols & Messaging** | gRPC, RESTful APIs, WebSockets, Apache Kafka, RabbitMQ, SQS |
+| **Databases & Caching** | PostgreSQL, MySQL, Redis, MongoDB |
+| **CI/CD & Observability** | GitHub Actions, Jenkins, ArgoCD, Prometheus, Grafana, OpenTelemetry |
+
+---
+
+### 📈 Featured Projects
+
+*   **[OWAS](https://github.com/puremike/OWAS)**: A modular microservices-based real-time auction platform backend engineered in Golang featuring a high-concurrency WebSocket bidding engine.
+*   **[GitOps MyIP](https://github.com/puremike/gitops-my-ip)**: This repository contains the configuration files for deploying a client and server application using Kubernetes and Argo CD. The Application code is at: **[my-ip-reversed](https://github.com/puremike/my-ip-reversed/tree/aws)**
+*   **[Weight Converter — Deployment & CI/CD Documentation](https://github.com/puremike/weightconverter/)**: This repo describes the end-to-end deployment pipeline for the Weight Converter application. The stack uses GitHub Actions for CI/CD, Docker Hub for image registry, Trivy for vulnerability scanning, ArgoCD for GitOps-based continuous delivery, and Kubernetes as the deployment target.
 
 ### 📫 Let's Connect
 - 💼 **LinkedIn:** [Michael Egbinola](https://www.linkedin.com/in/michaelegbinola/)

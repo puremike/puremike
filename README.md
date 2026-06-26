@@ -33,7 +33,7 @@ With deep expertise in **Golang**, **Python**, and **Kubernetes**, my goal is to
 
 *   **[OWAS](https://github.com/puremike/OWAS)**: A modular microservices-based real-time auction platform backend engineered in Golang featuring a high-concurrency WebSocket bidding engine.
 *   **[GitOps MyIP](https://github.com/puremike/gitops-my-ip)**: This repository contains the configuration files for deploying a client and server application using Kubernetes and Argo CD. The Application code is at: **[my-ip-reversed](https://github.com/puremike/my-ip-reversed/tree/aws)**
-*   **[Weight Converter — Deployment & CI/CD Documentation](https://github.com/puremike/weightconverter/)**: This repo describes the end-to-end deployment pipeline for the Weight Converter application. The stack uses GitHub Actions for CI/CD, Docker Hub for image registry, Trivy for vulnerability scanning, ArgoCD for GitOps-based continuous delivery, and Kubernetes as the deployment target.
+*   **[Weight Converter — Deployment & CI/CD Documentation](https://github.com/puremike/gitOps_weightconverter)**: This repo describes the end-to-end deployment pipeline for the Weight Converter application. The stack uses GitHub Actions for CI/CD, Docker Hub for image registry, Trivy for vulnerability scanning, ArgoCD for GitOps-based continuous delivery, and Kubernetes as the deployment target.
 
 ### 📫 Let's Connect
 - 💼 **LinkedIn:** [Michael Egbinola](https://www.linkedin.com/in/michaelegbinola/)
